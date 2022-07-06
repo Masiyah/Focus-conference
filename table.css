@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:20px;
+    font-family: sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+table{
+    width: 100%;
+    justify-content: center;
+	align-items: center;
+    border-collapse: collapse;
+}
+
+table td, table th{
+    padding:12px 15px;
+    border:1px solid #ddd;
+    text-align: center;
+}
+
+table th{
+    background-color:  #420303;
+    color: #ffffff;
+}
